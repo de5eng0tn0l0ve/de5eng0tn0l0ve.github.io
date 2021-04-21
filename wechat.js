@@ -1,4 +1,3 @@
-window.open("chrome://version");
 ENABLE_LOG = true;
 IN_WORKER = true;
 
